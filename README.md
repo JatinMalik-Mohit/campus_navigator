@@ -1,7 +1,7 @@
 # Campus PathFinder — Dijkstra vs A*
 ### Chandigarh University, Mohali · North + South Campus
 
-An interactive, fully self-contained web application that models the CU Mohali campus as a weighted graph and runs **both** Dijkstra's algorithm and A* Star **simultaneously**, animating the differences live on a canvas map.
+An interactive, fully self-contained web application that models a campus as a weighted graph and runs **both** Dijkstra's algorithm and A* Star **simultaneously**, animating the differences live on a canvas map.
 
 ---
 
