@@ -160,5 +160,3 @@ Routes that cross both campuses show the most dramatic difference:
 - **LC-A → Convocation Hall** (hostel zone to academic zone)
 
 On these routes A* typically skips 30–50% of the nodes Dijkstra visits.
-
----
