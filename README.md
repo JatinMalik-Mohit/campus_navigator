@@ -162,5 +162,3 @@ Routes that cross both campuses show the most dramatic difference:
 On these routes A* typically skips 30–50% of the nodes Dijkstra visits.
 
 ---
-
-*v5.0 · Zero external dependencies · Canvas renderer · Real CU Mohali building names*
