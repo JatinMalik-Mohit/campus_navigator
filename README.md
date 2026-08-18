@@ -137,8 +137,6 @@ campus-path-finder/
 └── README.md     ← This file
 ```
 
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
