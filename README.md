@@ -21,7 +21,6 @@ An interactive, fully self-contained web application that models a campus as a w
 | 📱 Responsive | Sidebar collapses to full-map mode |
 
 ---
-
 ## 🏫 Campus Locations (57 nodes)
 
 ### North Campus — Academic Blocks
